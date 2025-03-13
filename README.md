@@ -1,6 +1,6 @@
 # Bitonic Sort em MPI e OpenMP
 
-Este repositório contém versões do algoritmo paralelo de ordenação Bitonic Sort baseadas no livro **"Parallel Programming with MPI"**, de **Pacheco, P. S.**.  
+Este repositório contém versões do algoritmo paralelo de ordenação Bitonic Sort baseadas no livro **"Parallel Programming with MPI"**, de **Pacheco, P. S.**. A primeira foi implementada utilizando apenas MPI enquanto a segunda apenas OpenMP.  
 
 ## Casos de Teste  
 
@@ -10,7 +10,7 @@ Os arquivos de entrada (`.txt`) contêm listas de números para teste, com os se
 - **lista262144.txt** → 2<sup>18</sup> números  
 - **lista1048576.txt** → 2<sup>20</sup> números  
 
-Todas as implementações ordenam corretamente os números presentes nesses arquivos.  
+Ambas as implementações ordenam corretamente os números presentes nesses arquivos.  
 
 ## Testes de Mesa  
 
