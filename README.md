@@ -6,9 +6,9 @@ Este repositório contém versões do algoritmo paralelo de ordenação Bitonic 
 
 Os arquivos de entrada (`.txt`) contêm listas de números para teste, com os seguintes tamanhos:  
 
-- 🔹 **lista131072.txt** → \(2^{17}\) números  
-- 🔹 **lista262144.txt** → \(2^{18}\) números  
-- 🔹 **lista1048576.txt** → \(2^{20}\) números  
+- **lista131072.txt** → 2<sup>17</sup> números  
+- **lista262144.txt** → 2<sup>18</sup> números  
+- **lista1048576.txt** → 2<sup>20</sup> números  
 
 Todas as implementações ordenam corretamente os números presentes nesses arquivos.  
 
